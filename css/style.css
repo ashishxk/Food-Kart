@@ -253,7 +253,7 @@ section {
 }
 
 .swiper-pagination-bullet-active {
-  background-color: var(--yellow);
+  background-color: var(--white);
 }
 
 .category .box-container {
